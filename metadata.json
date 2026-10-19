@@ -1,0 +1,6 @@
+{
+  "name": "Green Resilience AI",
+  "description": "Smart Sorting, Safer Storage, and Resilient Cold Chains prototype for SAP Hackfest Bengaluru 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
